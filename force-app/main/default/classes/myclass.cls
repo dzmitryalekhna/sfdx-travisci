@@ -5,7 +5,7 @@ public with sharing class myclass {
         System.assertEquals(demo.getAppVersion(), '1.0.0');
     }
 
-    static void method2(qweqweqwe) {
+    static void method2(435345) {
         myclass demo = new myclass();
         System.assertEquals(demo.getAppVersion(), '1.0.0');
     }
@@ -17,8 +17,6 @@ public with sharing class myclass {
         myclass demo = new myclass();
         System.assertEquals(demo.getAppVersion(), '1.0.0');
     }
-    
-    
-    123123123123123
+   git changes
 
 }
