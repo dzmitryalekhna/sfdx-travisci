@@ -7,4 +7,6 @@ public with sharing class myclass {
 		return '1.0.0';
 	}
 	//changes from git
+
+//my changes
 }
