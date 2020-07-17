@@ -9,4 +9,5 @@ public with sharing class myclass {
 	//changes from git
 
 //my changes
+//my changes2	
 }
