@@ -8,6 +8,6 @@ public with sharing class myclass {
 	}
 	//changes from git
 
-//my 
+//my changes1
 //my changes2	
 }
